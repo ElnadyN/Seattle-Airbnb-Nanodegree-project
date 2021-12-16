@@ -37,7 +37,6 @@ Calendar, including listing id and the price and availability for that day
 Key results 
 1- Renting an Entire home is the most avaliable option on Seattle Airbnb
 2- Fairmount Park is the most expensive neighbourhood in Seattle &Holly park is the most afordable 
-3- their is no direct relation ship between price and number of reviews
-4- their is strong relationship between cleanliness score and the review score 
-5- their is no direct relationship between the cancellation policy and the price but if you care about the cancellation policy you will find a lot of options 
-6- recommendation for the least and most expensive properties according to the reviews 
+3- their is strong relationship between cleanliness score and the review score 
+4- their is no direct relationship between the cancellation policy and the price but if you care about the cancellation policy you will find a lot of options 
+5- recommendation for the least and most expensive properties according to the reviews 
