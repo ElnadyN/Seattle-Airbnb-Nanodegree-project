@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+### Going to Seattle Then Check your options 
+If you are going to seattle and looking for Airbnb reservation will try to answer all the questions on your mind 
+- First you maybe thinking at which neighbourhood you could stay , Here is a break down for the most expensive and most afordable neighbourhood 
 
-You can use the [editor on GitHub](https://github.com/ElnadyN/Seattle-Airbnb-Nanodegree-project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image](https://user-images.githubusercontent.com/96265678/146452910-831dae00-f66a-4bbb-9e3f-f270a313c4db.png)
 
-### Markdown
+![image](https://user-images.githubusercontent.com/96265678/146452954-cd2b536d-3c62-4a0d-8f20-5a408dac723a.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+- and what is your option ?
+![image](https://user-images.githubusercontent.com/96265678/146452336-f778cb49-f1d1-4d37-9c9f-246108067426.png)
 
-# Header 1
-## Header 2
-### Header 3
+- If I am looking for afordable stay will I find enough reviews to guide me ? we found that not necessary the most expensive properties have the highest review , 
+so if you are looking for afordable property you will find plenty of reviews to help
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+- what is the average price per room type ?
 
-**Bold** and _Italic_ and `Code` text
+![image](https://user-images.githubusercontent.com/96265678/146453578-5d1fb784-e80b-4c19-9a09-2c9e48764926.png)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+- Finally here is our recommendation for the least and most expensive properties according to the reviews 
+![image](https://user-images.githubusercontent.com/96265678/146453800-cdbf613e-9a26-4417-958f-a7e001012cbf.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ElnadyN/Seattle-Airbnb-Nanodegree-project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![image](https://user-images.githubusercontent.com/96265678/146453856-6a3b4f6f-72c9-4f2b-82ca-e6b87162cfb9.png)
+
