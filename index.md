@@ -11,9 +11,6 @@ If you are going to seattle and looking for Airbnb reservation will try to answe
 - and what is your option ?
 ![image](https://user-images.githubusercontent.com/96265678/146452336-f778cb49-f1d1-4d37-9c9f-246108067426.png)
 
-- If I am looking for afordable stay will I find enough reviews to guide me ? we found that not necessary the most expensive properties have the highest review , 
-so if you are looking for afordable property you will find plenty of reviews to help
-
 
 - what is the average price per room type ?
 
